@@ -12,7 +12,8 @@
 - Industrial Design (IEOR170)
 - how to not get zoom fatigue :")
 
-[LinkedIn](https://www.linkedin.com/in/izzielau/)
+[LinkedIn](https://www.linkedin.com/in/izzielau/) 
+
 [Personal Website](https://izzielau.github.io/)
 
 <!--
