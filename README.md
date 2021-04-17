@@ -12,6 +12,9 @@
 - Industrial Design (IEOR170)
 - how to not get zoom fatigue :")
 
+[LinkedIn](https://www.linkedin.com/in/izzielau/)
+[Personal Website](https://izzielau.github.io/)
+
 <!--
 **izzielau/izzielau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
