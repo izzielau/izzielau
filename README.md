@@ -3,7 +3,7 @@
 ## currently working on (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 - Frontend engineering at sproul.club
 - TPM at Develop for Good 
-- UI/UX intern at TigerTalk
+- UI/UX at TigerTalk
 - Development and analytics as an exec at Big Data at Berkeley
 
 ## currently learning (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
