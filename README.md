@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hey there 👋
+## 🔭 I’m currently working on ...
+- Frontend engineering at sproul.club
+- TPM at Develop for Good 
+- UI/UX intern at TigerTalk
+- Development and analytics as an exec at Big Data at Berkeley
+
+## 🌱 I’m currently learning ...
+- Machine Learning (CS189)
+- Engineering Statistics, Quality Control, and Forecasting (IEOR165)
+- Industrial Design (IEOR170)
+- how to not get zoom fatigue :")
 
 <!--
 **izzielau/izzielau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
