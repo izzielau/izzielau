@@ -1,10 +1,10 @@
 # hello! ☆*:.｡.o(≧▽≦)o.｡.:*☆
 
 ## currently working on (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-- Frontend engineering at [sproul.club][sproul.club/]
-- TPM at [Develop for Good][https://www.developforgood.org/]
-- UI/UX at [TigerTalk][tigertalk.io/]
-- Development and analytics as an exec at [Big Data at Berkeley][bd.berkeley.edu/]
+- Frontend engineering at [sproul.club](sproul.club/)
+- TPM at [Develop for Good](https://www.developforgood.org/)
+- UI/UX at [TigerTalk](tigertalk.io/)
+- Development and analytics as an exec at [Big Data at Berkeley](bd.berkeley.edu/)
 
 ## currently learning (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 - Machine Learning (CS189)
