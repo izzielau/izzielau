@@ -1,16 +1,6 @@
 # hello! ☆*:.｡.o(≧▽≦)o.｡.:*☆
 
-## currently working on (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-- Frontend engineering at [sproul.club](sproul.club/)
-- TPM at [Develop for Good](https://www.developforgood.org/)
-- UI/UX at [TigerTalk](tigertalk.io/)
-- Development and analytics as an exec at [Big Data at Berkeley](bd.berkeley.edu/)
-
-## currently learning (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-- Machine Learning (CS189)
-- Engineering Statistics, Quality Control, and Forecasting (IEOR165)
-- Industrial Design (IEOR170)
-- how to not get zoom fatigue :")
+i'm almost done with my senior year at uc berkeley, from which i'll be graduating with degrees in Computer Science, Cognitive Science, & Data Science <3 very burnt out though 
 
 [LinkedIn](https://www.linkedin.com/in/izzielau/) <br />
 [Personal Website](https://izzielau.github.io/)
