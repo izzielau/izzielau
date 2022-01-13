@@ -1,6 +1,6 @@
 # hello! ☆*:.｡.o(≧▽≦)o.｡.:*☆
 
-i'm almost done with my senior year at uc berkeley, from which i'll be graduating with degrees in Computer Science, Cognitive Science, & Data Science <3 very burnt out though 
+i'm almost done with my senior year at uc berkeley, from which i'll be graduating with degrees in Computer Science, Cognitive Science, Data Science, and Entrepreneurship & Tech <3 very burnt out ! 
 
 [LinkedIn](https://www.linkedin.com/in/izzielau/) <br />
 [Personal Website](https://izzielau.github.io/)
