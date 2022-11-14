@@ -1,6 +1,8 @@
 # hello! ☆*:.｡.o(≧▽≦)o.｡.:*☆
 
-graduated from uc berkeley with degrees in Computer Science, Cognitive Science, Data Science, and Entrepreneurship & Tech <3 currently working with data science & machine learning at microsoft. in love with learning! 
+graduated from uc berkeley with degrees in Computer Science, Cognitive Science, Data Science, and Entrepreneurship & Tech <3 
+currently working with data science & machine learning at microsoft. 
+in love with learning! 
 
 [LinkedIn](https://www.linkedin.com/in/izzielau/) <br />
 [Personal Website](https://izzielau.github.io/)
